@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio (Yandex Practicum)
 ## Training projects completed as part of the Yandex Practicum course
 ### Course link: 
 
