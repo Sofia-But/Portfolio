@@ -1,6 +1,6 @@
 # Portfolio (Yandex Practicum)
 ## Training projects completed as part of the Yandex Practicum course
-### Course link: 
+### Course link: https://practicum.yandex.ru/data-analyst-plus/ 
 
 **Описание проектов**
 1. Исследование данных сервиса “Яндекс.Музыка”: сравнение пользователей из Москвы и Санкт-Петербурга.
